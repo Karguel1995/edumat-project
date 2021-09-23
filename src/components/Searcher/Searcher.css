@@ -1,0 +1,32 @@
+.searcher__form {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searcher__input {
+  width: 158px;
+  height: 48px;
+  background-color: #f4f4f4;
+  color: #7c7c7c;
+  border: 0px;
+  border-radius: 16px;
+  padding: 0 16px;
+  background-image: url("../../assets/search-icon.png");
+  background-repeat: no-repeat;
+  background-position-x: calc(100% - 16px);
+  background-position-y: 50%;
+}
+
+.searcher__level {
+  width: 108px;
+  height: 48px;
+  border: 2px solid #efefef;
+  border-radius: 16px;
+  appearance: none;
+  padding: 0 16px;
+  background-image: url("../../assets/level-button.png");
+  background-repeat: no-repeat;
+  background-position-x: calc(100% - 16px);
+  background-position-y: 50%;
+}
