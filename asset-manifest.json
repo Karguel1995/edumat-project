@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edumat-project/static/css/main.4ee07823.chunk.css",
+    "main.js": "/edumat-project/static/js/main.b46b6552.chunk.js",
+    "main.js.map": "/edumat-project/static/js/main.b46b6552.chunk.js.map",
+    "runtime-main.js": "/edumat-project/static/js/runtime-main.0a56a393.js",
+    "runtime-main.js.map": "/edumat-project/static/js/runtime-main.0a56a393.js.map",
+    "static/js/2.e04e9271.chunk.js": "/edumat-project/static/js/2.e04e9271.chunk.js",
+    "static/js/2.e04e9271.chunk.js.map": "/edumat-project/static/js/2.e04e9271.chunk.js.map",
+    "index.html": "/edumat-project/index.html",
+    "static/css/main.4ee07823.chunk.css.map": "/edumat-project/static/css/main.4ee07823.chunk.css.map",
+    "static/js/2.e04e9271.chunk.js.LICENSE.txt": "/edumat-project/static/js/2.e04e9271.chunk.js.LICENSE.txt",
+    "static/media/Logo-footer.8de20be8.svg": "/edumat-project/static/media/Logo-footer.8de20be8.svg",
+    "static/media/course-image.4dd3be05.png": "/edumat-project/static/media/course-image.4dd3be05.png",
+    "static/media/Searcher.css": "/edumat-project/static/media/level-button.2c408f17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a56a393.js",
+    "static/js/2.e04e9271.chunk.js",
+    "static/css/main.4ee07823.chunk.css",
+    "static/js/main.b46b6552.chunk.js"
+  ]
+}
